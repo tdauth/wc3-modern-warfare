@@ -1,4 +1,4 @@
-# wc3-modern-warfare
+# Modern Warfare
 
 Warcraft III: Reforged funmap featuring modern warfare.
 
@@ -72,8 +72,12 @@ Units/People:
 * https://www.hiveworkshop.com/threads/villagerman.48155/
 * https://www.hiveworkshop.com/threads/infantry-1.48714/
 * https://www.hiveworkshop.com/threads/us-ranger.128123/
+* https://www.hiveworkshop.com/threads/oconnor-the-spy.285761/
+* https://www.hiveworkshop.com/threads/industrial-era-workers.313401/
+* https://www.hiveworkshop.com/threads/police-officer.328301/
+* https://www.hiveworkshop.com/threads/marine-model.50534/
 
-Buildings:
+Military Buildings:
 * https://www.hiveworkshop.com/threads/supplydepot.47334/
 * https://www.hiveworkshop.com/threads/command-center.48705/
 * https://www.hiveworkshop.com/threads/heliport.129119/
@@ -82,10 +86,13 @@ Buildings:
 * https://www.hiveworkshop.com/threads/refinery.182089/
 * https://www.hiveworkshop.com/threads/barracks.182086/
 * https://www.hiveworkshop.com/threads/factory.117493/
+* https://www.hiveworkshop.com/threads/barracks.182086/
 
 Defensive Strucutres:
 * https://www.hiveworkshop.com/threads/sandbags1.62390/
 * https://www.hiveworkshop.com/threads/road-barrier-2-versions.269936/
+* https://www.hiveworkshop.com/threads/sandbags-ring-and-single.261942/
+* https://www.hiveworkshop.com/threads/modern-barricade.324126/
 
 Power Ups:
 * https://www.hiveworkshop.com/threads/medkit.94662/
@@ -97,6 +104,8 @@ Power Ups:
 * https://www.hiveworkshop.com/threads/c4-item.271012/
 * https://www.hiveworkshop.com/threads/ammobox.253342/
 * https://www.hiveworkshop.com/threads/rifle-ammo.272603/
+* https://www.hiveworkshop.com/threads/combatknife.204813/
+* https://www.hiveworkshop.com/threads/grenade-missile.88698/
 
 Abilities/Buffs:
 * https://www.hiveworkshop.com/threads/2nd-rank-aura.243915/
@@ -118,6 +127,7 @@ Civilian Vehicles:
 * https://www.hiveworkshop.com/threads/soviet-truck.220028/
 * https://www.hiveworkshop.com/threads/soviet-truck-w-o-van.220064/
 * https://www.hiveworkshop.com/threads/soviet-truck-with-cistern.220066/
+* https://www.hiveworkshop.com/threads/police-car.112571/
 
 Tanks:
 * https://www.hiveworkshop.com/threads/m1-abrams-battle-tank.48652/
@@ -146,6 +156,10 @@ Air Planes:
 * https://www.hiveworkshop.com/threads/f-a-22-raptor-v2.50136/
 * https://www.hiveworkshop.com/threads/flyingmachine.47845/
 * https://www.hiveworkshop.com/threads/su-35-super-flanker.265708/
+
+
+Air Support:
+* https://www.hiveworkshop.com/threads/drop-crate-airdrop.324103/
 
 Space:
 * https://www.hiveworkshop.com/threads/satelite.269840/
@@ -199,7 +213,26 @@ City:
 * https://www.hiveworkshop.com/threads/ammobox.253342/
 * https://www.hiveworkshop.com/threads/modern-bench-and-street-support-pillar.269938/
 * https://www.hiveworkshop.com/threads/road-fencing-2-versions.269937/
+* https://www.hiveworkshop.com/threads/pentagon.319801/
+* https://www.hiveworkshop.com/threads/empire-state-building.320002/
+* https://www.hiveworkshop.com/threads/united-nation-building.319968/
+* https://www.hiveworkshop.com/threads/ventilator.319049/
+* https://www.hiveworkshop.com/threads/modern-barrel-4-variants.324123/
+* https://www.hiveworkshop.com/threads/ruined-buildings-pack.319424/
 
 Trains:
 * https://www.hiveworkshop.com/threads/wagon1.48622/
 * https://www.hiveworkshop.com/threads/train.48621/
+
+
+Environment/Nature:
+* https://www.hiveworkshop.com/threads/civilization-landscape-pack.309252/
+
+## Other Modern Warfare Maps
+
+* https://www.hiveworkshop.com/threads/modern-warfare-alpha.82171/
+* https://www.hiveworkshop.com/threads/modern-warfare-1-11-beta.114753/
+* https://www.hiveworkshop.com/threads/risk-modern-warfare-final.91736/
+* https://www.hiveworkshop.com/threads/modern-war-strategy-1-2-full.95118/
+* https://www.hiveworkshop.com/threads/swat-aftermath-1-10.81307/
+* https://www.hiveworkshop.com/threads/armored-command.217375/
