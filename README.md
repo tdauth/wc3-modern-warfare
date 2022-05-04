@@ -2,7 +2,8 @@
 
 Warcraft III: Reforged funmap featuring modern warfare.
 
-In some unknown country a rebellion has started. The government fights vs rebels and both forces order modern weapons from foreign countries.
+In some unknown country a rebellion has started.
+The government fights vs rebels and both forces order modern weapons from foreign countries.
 The battle over its capital will decide who wins the war.
 
 ## Features
@@ -70,18 +71,35 @@ Units/People:
 * https://www.hiveworkshop.com/threads/villagerman.48148/
 * https://www.hiveworkshop.com/threads/villagerman.48155/
 * https://www.hiveworkshop.com/threads/infantry-1.48714/
+* https://www.hiveworkshop.com/threads/us-ranger.128123/
 
 Buildings:
 * https://www.hiveworkshop.com/threads/supplydepot.47334/
 * https://www.hiveworkshop.com/threads/command-center.48705/
-
+* https://www.hiveworkshop.com/threads/heliport.129119/
+* https://www.hiveworkshop.com/threads/desert-bunker.124587/
+* https://www.hiveworkshop.com/threads/comm-center.182088/
+* https://www.hiveworkshop.com/threads/refinery.182089/
+* https://www.hiveworkshop.com/threads/barracks.182086/
+* https://www.hiveworkshop.com/threads/factory.117493/
 
 Defensive Strucutres:
 * https://www.hiveworkshop.com/threads/sandbags1.62390/
+* https://www.hiveworkshop.com/threads/road-barrier-2-versions.269936/
 
 Power Ups:
 * https://www.hiveworkshop.com/threads/medkit.94662/
 * https://www.hiveworkshop.com/threads/ammo-box.88706/
+* https://www.hiveworkshop.com/threads/rocket-ammo.144053/
+* https://www.hiveworkshop.com/threads/potionhealingsmall.168913/
+* https://www.hiveworkshop.com/threads/peelz_stand.173775/
+* https://www.hiveworkshop.com/threads/repair-key.227099/
+* https://www.hiveworkshop.com/threads/c4-item.271012/
+* https://www.hiveworkshop.com/threads/ammobox.253342/
+* https://www.hiveworkshop.com/threads/rifle-ammo.272603/
+
+Abilities/Buffs:
+* https://www.hiveworkshop.com/threads/2nd-rank-aura.243915/
 
 Military Vehicles:
 * https://www.hiveworkshop.com/threads/rocket-launcher-vehicle.50445/
@@ -93,9 +111,20 @@ Military Vehicles:
 * https://www.hiveworkshop.com/threads/m-113-v2.53306/
 * https://www.hiveworkshop.com/threads/m-113-ambulance.53308/
 
+Civilian Vehicles:
+* https://www.hiveworkshop.com/threads/firetruck.112949/
+* https://www.hiveworkshop.com/threads/ambulance.112740/
+* https://www.hiveworkshop.com/threads/soviet-car.219538/
+* https://www.hiveworkshop.com/threads/soviet-truck.220028/
+* https://www.hiveworkshop.com/threads/soviet-truck-w-o-van.220064/
+* https://www.hiveworkshop.com/threads/soviet-truck-with-cistern.220066/
+
 Tanks:
 * https://www.hiveworkshop.com/threads/m1-abrams-battle-tank.48652/
 * https://www.hiveworkshop.com/threads/zsu-23-4-shilka.48653/
+* https://www.hiveworkshop.com/threads/t-90s-modernized.258521/
+* https://www.hiveworkshop.com/threads/m1a2-abrams-low-definition.257874/
+* https://www.hiveworkshop.com/threads/m1a2-abrams.257833/
 
 Anti Air:
 * https://www.hiveworkshop.com/threads/flak-cannon.48081/
@@ -116,6 +145,10 @@ Air Planes:
 * https://www.hiveworkshop.com/threads/a-10-thunderbolt-ii.50085/
 * https://www.hiveworkshop.com/threads/f-a-22-raptor-v2.50136/
 * https://www.hiveworkshop.com/threads/flyingmachine.47845/
+* https://www.hiveworkshop.com/threads/su-35-super-flanker.265708/
+
+Space:
+* https://www.hiveworkshop.com/threads/satelite.269840/
 
 Ships:
 * https://www.hiveworkshop.com/threads/destroyer.49910/
@@ -126,6 +159,12 @@ Ships:
 Equipment/Weapons/Missiles:
 * https://www.hiveworkshop.com/threads/smoke-granade-impact.48249/
 * https://www.hiveworkshop.com/threads/tomahawk.48851/
+* https://www.hiveworkshop.com/threads/molotov-coctail.128835/
+* https://www.hiveworkshop.com/threads/gas.142039/
+* https://www.hiveworkshop.com/threads/surrender-buff.190153/
+* https://www.hiveworkshop.com/threads/surrender-effect.190157/
+* https://www.hiveworkshop.com/threads/parachute.224193/
+* https://www.hiveworkshop.com/threads/parachute.260435/
 
 City:
 * https://www.hiveworkshop.com/threads/radio-tower.236058/
@@ -139,6 +178,27 @@ City:
 * https://www.hiveworkshop.com/threads/cargo-container-team-color.90943/
 * https://www.hiveworkshop.com/threads/basketball-post.99513/
 * https://www.hiveworkshop.com/threads/bridge.129824/
+* https://www.hiveworkshop.com/threads/oldfactory.129118/
+* https://www.hiveworkshop.com/threads/stop-sign.121175/
+* https://www.hiveworkshop.com/threads/do-not-enter-sign.121169/
+* https://www.hiveworkshop.com/threads/street-name-sign.121171/
+* https://www.hiveworkshop.com/threads/crate.142434/
+* https://www.hiveworkshop.com/threads/brick-wall-door.170390/
+* https://www.hiveworkshop.com/threads/brick-wall.170389/
+* https://www.hiveworkshop.com/threads/modern-door-by-chilla_killa.161920/
+* https://www.hiveworkshop.com/threads/billboard.224260/
+* https://www.hiveworkshop.com/threads/elevator.225325/
+* https://www.hiveworkshop.com/threads/airconditioning-unit.236060/
+* https://www.hiveworkshop.com/threads/airconditioning-unit.236061/
+* https://www.hiveworkshop.com/threads/roadblock_white.236411/
+* https://www.hiveworkshop.com/threads/apartment.234517/
+* https://www.hiveworkshop.com/threads/yin.238776/
+* https://www.hiveworkshop.com/threads/yang.238777/
+* https://www.hiveworkshop.com/threads/ladder.236059/
+* https://www.hiveworkshop.com/threads/greenetech.252576/
+* https://www.hiveworkshop.com/threads/ammobox.253342/
+* https://www.hiveworkshop.com/threads/modern-bench-and-street-support-pillar.269938/
+* https://www.hiveworkshop.com/threads/road-fencing-2-versions.269937/
 
 Trains:
 * https://www.hiveworkshop.com/threads/wagon1.48622/
