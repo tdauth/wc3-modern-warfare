@@ -6,6 +6,9 @@ In some unknown country a rebellion has started.
 The government fights vs rebels and both forces order modern weapons from foreign countries.
 The battle over its capital will decide who wins the war.
 
+[Download](./modernwarfare0.1.w3x)
+
+
 ## Features
 
 * 4 vs 4 (Government vs Rebels) + 4 Civilian players Multiplayer support
@@ -23,6 +26,31 @@ The battle over its capital will decide who wins the war.
 * Navy: The map has some water area and the capital has a harbour.
 * Optional: Turret system. Tanks can fire while moving. The attack order will store the target but you can move while firing.
 * Optional: FPS support. You can control a single unit in battle and use WASD and the mouse to move and fire your weapon.
+
+## Credits
+
+* The_Silent: [RoadTileset.blp](https://www.hiveworkshop.com/threads/roadtileset-blp.268994/)
+* The_Silent: [Sidewalk_Tile.blp](https://www.hiveworkshop.com/threads/sidewalk_tile-blp.268978/)
+* Kofi_Banan: [Command-Center](https://www.hiveworkshop.com/threads/command-center.48705/)
+* Ribenamania: [Bridge](https://www.hiveworkshop.com/threads/bridge.129824/)
+* Kofi_Banan: [TankFactory](https://www.hiveworkshop.com/threads/tankfactory.48344/)
+* Mechanical Man: [Barracks](https://www.hiveworkshop.com/threads/barracks.182086/)
+* Illidan(Evil)X: [M1A2 Abrams](https://www.hiveworkshop.com/threads/m1a2-abrams.257833/)
+* Illidan(Evil)X: [T-90S Modernized](https://www.hiveworkshop.com/threads/t-90s-modernized.258521/)
+* SataX: [Heliport](https://www.hiveworkshop.com/threads/heliport.129119/)
+* Kofi_Banan: [Apache](https://www.hiveworkshop.com/threads/apache.53305/)
+* Kofi_Banan: [M-113-Ambulance](https://www.hiveworkshop.com/threads/m-113-ambulance.53308/)
+* HerrDave: [Industrial Era Workers](https://www.hiveworkshop.com/threads/industrial-era-workers.313401/)
+* Kofi_Banan: [Bunker](https://www.hiveworkshop.com/threads/bunker.48538/)
+* killst4r: [Nuclear Silo2](https://www.hiveworkshop.com/threads/nuclear-silo2.47314/)
+* HerrDave: [American Officer Pack](https://www.hiveworkshop.com/threads/american-officer-pack.316910/#resource-84783)
+* WILL THE ALMIGHTY: [NuclearExplosion](https://www.hiveworkshop.com/threads/nuclearexplosion.51829/)
+* Fingolfin: [Su-35 Super Flanker](https://www.hiveworkshop.com/threads/su-35-super-flanker.265708/)
+* JB_McKnight: [Radio Tower](https://www.hiveworkshop.com/threads/radio-tower.236058/)
+* Kofi_Banan: [CargoHeliV2](https://www.hiveworkshop.com/threads/cargoheliv2.48272/)
+* Rolo: [Power Plant](https://www.hiveworkshop.com/threads/power-plant.309137/)
+* Kofi_Banan: [crane](https://www.hiveworkshop.com/threads/crane.98522/)
+* Kofi_Banan: [Humvee](https://www.hiveworkshop.com/threads/humvee.48319/)
 
 ## Resources
 
