@@ -8,17 +8,21 @@ The battle over its capital will decide who wins the war.
 
 ## Features
 
-* 4 vs 4 Multiplayer support
+* 4 vs 4 (Government vs Rebels) + 4 Civilian players Multiplayer support
 * Computer AI support.
-* Modern warfare units: Tanks, Air Planes, Buildings, Anti Air missiles, Nuclear Weapons etc.
+* Modern warfare units: Tanks, Air Planes, Buildings, Anti Air missiles, Nuclear Weapons etc. Land Mines, Barricades, Bunkers
 * Custom models, textures etc.
+* Custom Heroes: Famous people like military commanders or leaders from all over the world.
 * Modern capital: A modern city with a river which must be conquered.
-* Bridges and buildings can be destroyed and rebuilt.
+* Environment can be destroyed and rebuilt.
 * Interiors: Soldiers can enter houses.
-* No races: Every player can build any unit.
+* No races: Every player can build any unit. This is justified by the fact that both forces can import weapons from other countries.
 * Custom resources: Money and Oil. Money will can be received by capturing certain buildings/areas. Oil can be received at certain positions only.
-* Civilians: Citizens, Police, Fire Fighters, Ambulance etc. One force can play civilans to survive and protect their people.
+* Civilians: Citizens, Police, Fire Fighters, Ambulance etc. One force can play civilans to survive and protect their people. Players from both forces Government and Rebels can commit war crimes.
+* Surrender/Capture/Prisoners: Units can surrender and be captured/taken as prisoners. There can be prisoner exchanges.
 * Navy: The map has some water area and the capital has a harbour.
+* Optional: Turret system. Tanks can fire while moving. The attack order will store the target but you can move while firing.
+* Optional: FPS support. You can control a single unit in battle and use WASD and the mouse to move and fire your weapon.
 
 ## Resources
 
