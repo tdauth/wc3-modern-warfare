@@ -131,6 +131,8 @@ Military Vehicles:
 * https://www.hiveworkshop.com/threads/m-88.53309/
 * https://www.hiveworkshop.com/threads/m-113-v2.53306/
 * https://www.hiveworkshop.com/threads/m-113-ambulance.53308/
+* https://www.hiveworkshop.com/threads/heavy-artillery-unpacked.48522/
+* https://www.hiveworkshop.com/threads/heavy-artillery-packed.48523/
 
 Civilian Vehicles:
 * https://www.hiveworkshop.com/threads/firetruck.112949/
@@ -191,6 +193,7 @@ Equipment/Weapons/Missiles:
 * https://www.hiveworkshop.com/threads/surrender-effect.190157/
 * https://www.hiveworkshop.com/threads/parachute.224193/
 * https://www.hiveworkshop.com/threads/parachute.260435/
+* https://www.hiveworkshop.com/threads/artillery-strike.95960/
 
 City:
 * https://www.hiveworkshop.com/threads/radio-tower.236058/
@@ -243,8 +246,15 @@ Environment/Nature:
 ## Other Modern Warfare Maps
 
 * https://www.hiveworkshop.com/threads/modern-warfare-alpha.82171/
+* https://www.hiveworkshop.com/threads/the-warfare.105002/
 * https://www.hiveworkshop.com/threads/modern-warfare-1-11-beta.114753/
 * https://www.hiveworkshop.com/threads/risk-modern-warfare-final.91736/
 * https://www.hiveworkshop.com/threads/modern-war-strategy-1-2-full.95118/
 * https://www.hiveworkshop.com/threads/swat-aftermath-1-10.81307/
 * https://www.hiveworkshop.com/threads/armored-command.217375/
+
+## Terrain Templates
+
+* https://www.hiveworkshop.com/threads/modern-city.263501/
+* https://www.hiveworkshop.com/threads/blight-town.290799/
+* https://www.hiveworkshop.com/threads/fps-horror-cinematic-template.208969/
