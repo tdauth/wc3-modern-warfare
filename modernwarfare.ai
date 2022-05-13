@@ -9,6 +9,11 @@ globals
 
     constant integer ENGINEER = 'h001'
 
+    constant integer ABRAMS = 'h004'
+    constant integer T90S = 'h005'
+    constant integer HUMVEE = 'h00G'
+    constant integer MARINE = 'h00B'
+
     boolean attackEnemyPlayers = true
 endglobals
 
@@ -195,6 +200,10 @@ endfunction
 function AttackWaves takes nothing returns nothing
     loop //Init the infinite attack loop
 		call InitAssaultGroup()
+		call CampaignAttackerEx(3, 3, 3, ABRAMS)
+		call CampaignAttackerEx(3, 3, 3, T90S)
+		call CampaignAttackerEx(3, 3, 3, HUMVEE)
+		call CampaignAttackerEx(3, 3, 3, MARINE)
 		call AddStandardUnitsToAttackWave()
 		call Sleep( M2 ) // Waits 2 minutes before attacking
 		call LaunchAttack()

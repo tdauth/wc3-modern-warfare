@@ -51,6 +51,24 @@ The battle over its capital will decide who wins the war.
 * Rolo: [Power Plant](https://www.hiveworkshop.com/threads/power-plant.309137/)
 * Kofi_Banan: [crane](https://www.hiveworkshop.com/threads/crane.98522/)
 * Kofi_Banan: [Humvee](https://www.hiveworkshop.com/threads/humvee.48319/)
+* qassamzed: [US Ranger](https://www.hiveworkshop.com/threads/us-ranger.128123/)
+* purparisien: [United Nation Building](https://www.hiveworkshop.com/threads/united-nation-building.319968/)
+* JB_McKnight: [GreeneTech](https://www.hiveworkshop.com/threads/greenetech.252576/)
+* HerrDave: [Wrath of the Kaiser: Flag Pack](https://www.hiveworkshop.com/threads/wrath-of-the-kaiser-flag-pack.285744/)
+* JB_McKnight: [Modern Streetlight](https://www.hiveworkshop.com/threads/modern-streetlight.232767/)
+* purparisien: [Modern Cars Pack](https://www.hiveworkshop.com/threads/modern-cars-pack.331636/)
+* HerrDave: [Civilization Landscape Pack](https://www.hiveworkshop.com/threads/civilization-landscape-pack.309252/)
+* ILH: [Satelite](https://www.hiveworkshop.com/threads/satelite.269840/)
+* Kofi_Banan: [Sam-Site](https://www.hiveworkshop.com/threads/sam-site.51667/)
+* Kofi_Banan: [Sam-Rocket](https://www.hiveworkshop.com/threads/sam-rocket.51668/)
+* Kofi_Banan: [phonebooth](https://www.hiveworkshop.com/threads/phonebooth.98519/)
+* Kofi_Banan: [Airbase](https://www.hiveworkshop.com/threads/airbase.48703/)
+* Illidan(Evil)X: [M2 Bradley Infantry Fighting Vehicle](https://www.hiveworkshop.com/threads/m2-bradley-infantry-fighting-vehicle.48713/)
+* Illidan(Evil)X: [Rocket Launcher Vehicle](https://www.hiveworkshop.com/threads/rocket-launcher-vehicle.50445/)
+* Illidan(Evil)X: [Ion Cannon Beam](https://www.hiveworkshop.com/threads/ion-cannon-beam.50547/)
+* Illidan(Evil)X: [Aircraft Carrier](https://www.hiveworkshop.com/threads/aircraft-carrier.50054/)
+* HerrDave: [Police Officer](https://www.hiveworkshop.com/threads/police-officer.328301/)
+* Kofi_Banan: [town-hall](https://www.hiveworkshop.com/threads/town-hall.98521/)
 
 ## Resources
 
@@ -273,6 +291,7 @@ Environment/Nature:
 
 ## Other Modern Warfare Maps
 
+* [World In Conflict 1.1](https://www.hiveworkshop.com/threads/world-in-conflict-1-1.81635/)
 * https://www.hiveworkshop.com/threads/modern-warfare-alpha.82171/
 * https://www.hiveworkshop.com/threads/the-warfare.105002/
 * https://www.hiveworkshop.com/threads/modern-warfare-1-11-beta.114753/
