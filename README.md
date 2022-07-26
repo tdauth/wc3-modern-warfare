@@ -262,6 +262,7 @@ City:
 * https://www.hiveworkshop.com/threads/ventilator.319049/
 * https://www.hiveworkshop.com/threads/modern-barrel-4-variants.324123/
 * https://www.hiveworkshop.com/threads/ruined-buildings-pack.319424/
+* https://www.hiveworkshop.com/threads/roads-and-structures.339677/
 
 Trains:
 * https://www.hiveworkshop.com/threads/wagon1.48622/
