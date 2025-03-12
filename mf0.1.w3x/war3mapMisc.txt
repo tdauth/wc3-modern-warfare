@@ -1,0 +1,15 @@
+[HERO]
+DependencyOr=H009,Hamg,Hblm,Hmkg,Hpal,Obla,Ofar,Oshd,Otch,Edem,Ekee,Emoo,Ewar,Ucrl,Udea,Udre,Ulic,Npbm,Nbrn,Nngs,Nplh,Nbst
+
+[Misc]
+FoodCeiling=300
+
+[TWN1]
+DependencyOr=h000,htow,ogre,etol,unpl
+
+[TWN2]
+DependencyOr=h000,hkee,ostr,etoa,unp1
+
+[TWN3]
+DependencyOr=h000,hcas,ofrt,etoe,unp2
+
