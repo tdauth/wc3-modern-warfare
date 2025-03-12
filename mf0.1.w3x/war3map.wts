@@ -1,0 +1,810 @@
+﻿STRING 1
+{
+Player 1
+}
+
+STRING 3
+{
+Modern Warfare 0.1
+}
+
+STRING 4
+{
+2-12
+}
+
+STRING 5
+{
+Rebels are trying to overthrow the government.
+}
+
+STRING 6
+{
+Barade
+}
+
+STRING 7
+{
+Modern Warfare 0.1
+}
+
+STRING 8
+{
+by Baradé
+}
+
+STRING 9
+{
+Player 2
+}
+
+STRING 10
+{
+Player 3
+}
+
+STRING 11
+{
+Player 4
+}
+
+STRING 12
+{
+Player 5
+}
+
+STRING 13
+{
+Player 6
+}
+
+STRING 14
+{
+Player 7
+}
+
+STRING 15
+{
+Player 8
+}
+
+STRING 16
+{
+Player 9
+}
+
+STRING 17
+{
+Player 10
+}
+
+STRING 18
+{
+Player 11
+}
+
+STRING 19
+{
+Player 12
+}
+
+STRING 20
+{
+Government
+}
+
+STRING 21
+{
+Rebels
+}
+
+STRING 22
+{
+Civilians
+}
+
+STRING 23
+// Units: h000 (Command Center), Name (Name)
+{
+Command Center
+}
+
+STRING 24
+// Units: h000 (Command Center), Tip (Tooltip - Basic)
+{
+Build Command Center
+}
+
+STRING 25
+// Units: h001 (Engineer), Name (Name)
+{
+Engineer
+}
+
+STRING 26
+// Units: h001 (Engineer), Tip (Tooltip - Basic)
+{
+Train Engineer
+}
+
+STRING 27
+{
+Rebels are trying to overthrow the government.
+}
+
+STRING 28
+// Destructibles: B000 (Long City Bridge), Name (Name)
+{
+Long City Bridge
+}
+
+STRING 29
+// Destructibles: B001 (Long City Bridge), Name (Name)
+{
+Long City Bridge
+}
+
+STRING 30
+// Destructibles: B001 (Long City Bridge), EditorSuffix (Editor Suffix)
+{
+(Diagonal 2)
+}
+
+STRING 31
+// Units: h002 (Tank Factory), Name (Name)
+{
+Tank Factory
+}
+
+STRING 32
+// Units: h002 (Tank Factory), Tip (Tooltip - Basic)
+{
+Build Tank Factory
+}
+
+STRING 33
+// Units: h004 (M1A2 Abrams), Name (Name)
+{
+M1A2 Abrams
+}
+
+STRING 34
+// Units: h004 (M1A2 Abrams), Tip (Tooltip - Basic)
+{
+Train M1A2 Abrams
+}
+
+STRING 35
+// Units: h005 (T-90S), Name (Name)
+{
+T-90S
+}
+
+STRING 36
+// Units: h005 (T-90S), Tip (Tooltip - Basic)
+{
+Train T-90S
+}
+
+STRING 37
+// Units: h006 (Heliport), Name (Name)
+{
+Heliport
+}
+
+STRING 38
+// Units: h006 (Heliport), Tip (Tooltip - Basic)
+{
+Build Heliport
+}
+
+STRING 39
+// Units: h007 (Apache), Name (Name)
+{
+Apache
+}
+
+STRING 40
+// Units: h007 (Apache), Tip (Tooltip - Basic)
+{
+Train Apache
+}
+
+STRING 41
+// Units: h008 (M-113 Ambulance), Name (Name)
+{
+M-113 Ambulance
+}
+
+STRING 42
+// Units: h008 (M-113 Ambulance), Tip (Tooltip - Basic)
+{
+Train M-113 Ambulance
+}
+
+STRING 44
+// Units: H009 (General), Name (Name)
+{
+General
+}
+
+STRING 45
+// Units: H009 (General), Awakentip (Tooltip - Awaken)
+{
+Revive General
+}
+
+STRING 46
+// Units: H009 (General), Revivetip (Tooltip - Revive)
+{
+Revive General
+}
+
+STRING 47
+// Units: H009 (General), Tip (Tooltip - Basic)
+{
+Summon General
+}
+
+STRING 48
+// Units: h00A (Bunker), Name (Name)
+{
+Bunker
+}
+
+STRING 49
+// Units: h00A (Bunker), Tip (Tooltip - Basic)
+{
+Build Bunker
+}
+
+STRING 52
+// Units: h00C (Nuclear Silo), Name (Name)
+{
+Nuclear Silo
+}
+
+STRING 53
+// Units: h00C (Nuclear Silo), Tip (Tooltip - Basic)
+{
+Build Nuclear Silo
+}
+
+STRING 54
+// Abilities: A000 (Nuclear Strike), Tip (Tooltip - Normal)
+{
+Nuclear Strike
+}
+
+STRING 55
+// Abilities: A000 (Nuclear Strike), Name (Name)
+{
+Nuclear Strike
+}
+
+STRING 56
+// Abilities: A001 (Replenish), EditorSuffix (Editor Suffix)
+{
+(M-113 Ambulance)
+}
+
+STRING 57
+// Buffs/Effects: X000 (Nuclear Explosion (Effect)), EditorName (Name (Editor Only))
+{
+Nuclear Explosion (Effect)
+}
+
+STRING 58
+// Units: h00D (Su-35 Super Flanker), Name (Name)
+{
+Su-35 Super Flanker
+}
+
+STRING 59
+// Units: h00D (Su-35 Super Flanker), Tip (Tooltip - Basic)
+{
+Train Su-35 Super Flanker
+}
+
+STRING 60
+// Units: h00E (Radio Tower), Name (Name)
+{
+Radio Tower
+}
+
+STRING 61
+// Units: h00E (Radio Tower), Tip (Tooltip - Basic)
+{
+Build Radio Tower
+}
+
+STRING 62
+// Units: nzep (Cargo Helicopter), Name (Name)
+{
+Cargo Helicopter
+}
+
+STRING 63
+// Units: nzep (Cargo Helicopter), Tip (Tooltip - Basic)
+{
+Train Cargo Helicopter
+}
+
+STRING 64
+// Units: h00F (Dock), Name (Name)
+{
+Dock
+}
+
+STRING 65
+// Units: h00F (Dock), Tip (Tooltip - Basic)
+{
+Build Dock
+}
+
+STRING 66
+// Destructibles: B002 (Power Plant), Name (Name)
+{
+Power Plant
+}
+
+STRING 67
+// Destructibles: B003 (Crane), Name (Name)
+{
+Crane
+}
+
+STRING 68
+// Units: h00G (Humvee), Name (Name)
+{
+Humvee
+}
+
+STRING 69
+// Units: h00G (Humvee), Tip (Tooltip - Basic)
+{
+Train Humvee
+}
+
+STRING 70
+// Abilities: A002 (Place Land Mine), Name (Name)
+{
+Place Land Mine
+}
+
+STRING 71
+// Abilities: A002 (Place Land Mine), Tip (Tooltip - Normal)
+{
+Place Land Mine
+}
+
+STRING 72
+// Abilities: A002 (Place Land Mine), Ubertip (Tooltip - Normal - Extended)
+{
+Places a Land Mine.
+}
+
+STRING 73
+// Abilities: A003 (Smoke Grenade), Tip (Tooltip - Normal)
+{
+Smoke Grenade
+}
+
+STRING 74
+// Abilities: A003 (Smoke Grenade), Name (Name)
+{
+Smoke Grenade
+}
+
+STRING 75
+// Abilities: A003 (Smoke Grenade), Ubertip (Tooltip - Normal - Extended)
+{
+Cast on enemy units to prevent them from attacking and casting spells.
+}
+
+STRING 76
+// Abilities: A004 (Grenade), Name (Name)
+{
+Grenade
+}
+
+STRING 77
+// Abilities: A004 (Grenade), Tip (Tooltip - Normal)
+{
+Grenade
+}
+
+STRING 78
+// Abilities: A004 (Grenade), Ubertip (Tooltip - Normal - Extended)
+{
+Throws a gernade.
+}
+
+STRING 79
+// Abilities: A004 (Grenade), EditorSuffix (Editor Suffix)
+{
+(U.S. Marine)
+}
+
+STRING 80
+// Units: ngol (Strategic Key Point), Name (Name)
+{
+Strategic Key Point
+}
+
+STRING 81
+// Units: h00B (U.S. Ranger), Name (Name)
+{
+U.S. Ranger
+}
+
+STRING 82
+// Units: h00B (U.S. Ranger), Tip (Tooltip - Basic)
+{
+Train U.S. Ranger
+}
+
+STRING 83
+// Units: h00H (Mercenary), Name (Name)
+{
+Mercenary
+}
+
+STRING 84
+// Units: h00H (Mercenary), Tip (Tooltip - Basic)
+{
+Train U.S. Ranger
+}
+
+STRING 85
+// Units: nwgt (Airport), Name (Name)
+{
+Airport
+}
+
+STRING 86
+// Abilities: A005 (Battle Stations), EditorSuffix (Editor Suffix)
+{
+(Bunker)
+}
+
+STRING 87
+// Abilities: S000 (Cargo Hold), EditorSuffix (Editor Suffix)
+{
+(Humvee)
+}
+
+STRING 88
+// Abilities: S001 (Cargo Hold), EditorSuffix (Editor Suffix)
+{
+(Tank)
+}
+
+STRING 89
+// Abilities: S002 (Cargo Hold), EditorSuffix (Editor Suffix)
+{
+(Military Transport)
+}
+
+STRING 90
+// Units: n004 (United Nations Building), Name (Name)
+{
+United Nations Building
+}
+
+STRING 91
+// Destructibles: B005 (Green Tech Building), Name (Name)
+{
+Green Tech Building
+}
+
+STRING 92
+// Destructibles: B006 (Flag American), Name (Name)
+{
+Flag American
+}
+
+STRING 93
+// Destructibles: B007 (Flag Great Britian), Name (Name)
+{
+Flag Great Britian
+}
+
+STRING 94
+// Destructibles: B008 (Flag France), Name (Name)
+{
+Flag France
+}
+
+STRING 95
+// Destructibles: B009 (Flag Italy), Name (Name)
+{
+Flag Italy
+}
+
+STRING 96
+// Destructibles: B00A (Flag Turkish), Name (Name)
+{
+Flag Turkish
+}
+
+STRING 97
+// Units: n000 (Citizen), Name (Name)
+{
+Citizen
+}
+
+STRING 98
+// Units: n001 (Citizen), Name (Name)
+{
+Citizen
+}
+
+STRING 99
+// Units: h00I (SUV), Name (Name)
+{
+SUV
+}
+
+STRING 101
+// Destructibles: B00B (Street Light), Name (Name)
+{
+Street Light
+}
+
+STRING 102
+// Units: h00J (Sports Car), Name (Name)
+{
+Sports Car
+}
+
+STRING 103
+{
+Capital
+}
+
+STRING 104
+// Destructibles: B004 (United Nations Building), Name (Name)
+{
+United Nations Building
+}
+
+STRING 105
+// Abilities: A006 (Occupy Building), Name (Name)
+{
+Occupy Building
+}
+
+STRING 106
+// Abilities: A006 (Occupy Building), Tip (Tooltip - Normal)
+{
+Occupy Building
+}
+
+STRING 107
+// Abilities: A006 (Occupy Building), Ubertip (Tooltip - Normal - Extended)
+{
+Takes control of an unoccupied building.
+}
+
+STRING 108
+// Abilities: S003 (Cargo Hold), EditorSuffix (Editor Suffix)
+{
+(Large Building)
+}
+
+STRING 109
+{
+Defeat!
+}
+
+STRING 110
+// Destructibles: B00C (Tree Pine), Name (Name)
+{
+Tree Pine
+}
+
+STRING 111
+// Destructibles: B00D (Tree Oak), Name (Name)
+{
+Tree Oak
+}
+
+STRING 112
+// Destructibles: B00E (Tree Decorative), Name (Name)
+{
+Tree Decorative
+}
+
+STRING 113
+// Destructibles: B00F (Tree Bamboo), Name (Name)
+{
+Tree Bamboo
+}
+
+STRING 114
+// Destructibles: B00G (Wheat), Name (Name)
+{
+Wheat
+}
+
+STRING 115
+// Units: h00K (Satelite), Name (Name)
+{
+Satelite
+}
+
+STRING 116
+// Units: h00K (Satelite), Tip (Tooltip - Basic)
+{
+Train Satelite
+}
+
+STRING 117
+// Units: h00L (Sam Site), Name (Name)
+{
+Sam Site
+}
+
+STRING 118
+// Units: h00L (Sam Site), Tip (Tooltip - Basic)
+{
+Build Sam Site
+}
+
+STRING 119
+// Units: n005 (Phonebooth), Name (Name)
+{
+Phonebooth
+}
+
+STRING 120
+// Units: h00M (Airbase), Name (Name)
+{
+Airbase
+}
+
+STRING 121
+// Units: h00M (Airbase), Tip (Tooltip - Basic)
+{
+Build Airbase
+}
+
+STRING 122
+// Units: h00N (M2 Bradley Infantry Fighting Vehicle), Name (Name)
+{
+M2 Bradley Infantry Fighting Vehicle
+}
+
+STRING 123
+// Units: h00N (M2 Bradley Infantry Fighting Vehicle), Tip (Tooltip - Basic)
+{
+Train M2 Bradley Infantry Fighting Vehicle
+}
+
+STRING 124
+// Units: h00O (Rocket Launcher Vehicle), Name (Name)
+{
+Rocket Launcher Vehicle
+}
+
+STRING 125
+// Units: h00O (Rocket Launcher Vehicle), Tip (Tooltip - Basic)
+{
+Train Rocket Launcher Vehicle
+}
+
+STRING 126
+// Units: h00P (Aircraft Carrier), Name (Name)
+{
+Aircraft Carrier
+}
+
+STRING 127
+// Units: h00P (Aircraft Carrier), Tip (Tooltip - Basic)
+{
+Train Aircraft Carrier
+}
+
+STRING 128
+// Units: n006 (Police Officer), Name (Name)
+{
+Police Officer
+}
+
+STRING 129
+// Units: h006 (Heliport), Hotkey (Hotkey)
+{
+T
+}
+
+STRING 130
+// Units: h00O (Rocket Launcher Vehicle), EditorSuffix (Name - Editor Suffix)
+{
+(Moving)
+}
+
+STRING 131
+// Units: h00Q (Rocket Launcher Vehicle), Name (Name)
+{
+Rocket Launcher Vehicle
+}
+
+STRING 132
+// Units: h00Q (Rocket Launcher Vehicle), Tip (Tooltip - Basic)
+{
+Train Rocket Launcher Vehicle
+}
+
+STRING 133
+// Units: h00Q (Rocket Launcher Vehicle), EditorSuffix (Name - Editor Suffix)
+{
+(Ready)
+}
+
+STRING 134
+// Abilities: A007 (Launching Position), Tip (Tooltip - Normal)
+{
+Launching Position
+}
+
+STRING 135
+// Abilities: A007 (Launching Position), Untip (Tooltip - Turn Off)
+{
+Moving
+}
+
+STRING 136
+// Abilities: A007 (Launching Position), Unubertip (Tooltip - Turn Off - Extended)
+{
+Transforms the Rocket Launcher Vehicle back to its normal form and allows moving it again.
+}
+
+STRING 137
+// Abilities: A007 (Launching Position), Ubertip (Tooltip - Normal - Extended)
+{
+Transforms the Rocket Launcher Vehicle into a ready position which allows it to attack but not to move anymore.
+}
+
+STRING 138
+// Abilities: A007 (Launching Position), Name (Name)
+{
+Launching Position
+}
+
+STRING 139
+// Units: n007 (Town Hall), Name (Name)
+{
+Town Hall
+}
+
+STRING 140
+// Units: n008 (Gas Station), Name (Name)
+{
+Gas Station
+}
+
+STRING 141
+// Units: n009 (Apartment), Name (Name)
+{
+Apartment
+}
+
+STRING 142
+// Units: n00A (Warehouse), Name (Name)
+{
+Warehouse
+}
+
+STRING 143
+// Units: n00B (Burger Place), Name (Name)
+{
+Burger Place
+}
+
+STRING 144
+// Units: h00F (Dock), Hotkey (Hotkey)
+{
+D
+}
+
