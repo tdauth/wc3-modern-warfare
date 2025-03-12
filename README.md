@@ -69,6 +69,8 @@ The battle over its capital will decide who wins the war.
 * Illidan(Evil)X: [Aircraft Carrier](https://www.hiveworkshop.com/threads/aircraft-carrier.50054/)
 * HerrDave: [Police Officer](https://www.hiveworkshop.com/threads/police-officer.328301/)
 * Kofi_Banan: [town-hall](https://www.hiveworkshop.com/threads/town-hall.98521/)
+* JB_McKnight: [Warehouse A](https://www.hiveworkshop.com/threads/warehouse-a.234289/)
+* JB_McKnight: [The Burger Place](https://www.hiveworkshop.com/threads/the-burger-place.234867/)
 
 ## Resources
 
@@ -280,6 +282,7 @@ City:
 * https://www.hiveworkshop.com/threads/ventilator.319049/
 * https://www.hiveworkshop.com/threads/modern-barrel-4-variants.324123/
 * https://www.hiveworkshop.com/threads/ruined-buildings-pack.319424/
+* https://www.hiveworkshop.com/threads/warehouse-a.234289/
 
 Trains:
 * https://www.hiveworkshop.com/threads/wagon1.48622/
